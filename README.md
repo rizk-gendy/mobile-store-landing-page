@@ -9,7 +9,8 @@ Project Description
 "Mobile Store Landing Page " is a responsive  landing page for online mobile store .
 
 
-    ![screencapture-rizk-gendy-github-io-mobile-store-landing-page-2022-03-20-15_41_34](https://user-images.githubusercontent.com/80922036/159165296-01fcc8e9-3ec4-4e07-8e28-d11e370fdd59.png)
+![screencapture-rizk-gendy-github-io-mobile-store-landing-page-2022-03-20-15_41_34](https://user-images.githubusercontent.com/80922036/159165357-55722571-4324-48e0-a45c-ca4301194d4b.png)
+
 
     
   
